@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Act2.1_Ventanas_Mich\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C04E449-C6A6-0775-93B6-73433AD7317A}|Assembly-CSharp.csproj|c:\\users\\admin\\act2.1_ventanas_mich\\assets\\scripts\\interfazcontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C04E449-C6A6-0775-93B6-73433AD7317A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interfazcontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InterfazControlador.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Act2.1_Ventanas_Mich\\Assets\\Scripts\\InterfazControlador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InterfazControlador.cs",
+              "ToolTip": "C:\\Users\\Admin\\Act2.1_Ventanas_Mich\\Assets\\Scripts\\InterfazControlador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InterfazControlador.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:07:15.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
