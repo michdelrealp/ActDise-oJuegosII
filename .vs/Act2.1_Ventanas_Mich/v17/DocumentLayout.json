@@ -3,7 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Act2.1_Ventanas_Mich\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C04E449-C6A6-0775-93B6-73433AD7317A}|Assembly-CSharp.csproj|c:\\users\\admin\\act2.1_ventanas_mich\\assets\\scripts\\interfazcontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C04E449-C6A6-0775-93B6-73433AD7317A}|Assembly-CSharp.csproj|c:\\users\\admin\\act2.1_ventanas_mich\\assets\\scripts\\arrastrarobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C04E449-C6A6-0775-93B6-73433AD7317A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\arrastrarobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C04E449-C6A6-0775-93B6-73433AD7317A}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Act2.1_Ventanas_Mich\\assets\\scripts\\controladorinterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C04E449-C6A6-0775-93B6-73433AD7317A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controladorinterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C04E449-C6A6-0775-93B6-73433AD7317A}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Act2.1_Ventanas_Mich\\assets\\scripts\\botonnavegaci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C04E449-C6A6-0775-93B6-73433AD7317A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\botonnavegaci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C04E449-C6A6-0775-93B6-73433AD7317A}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Act2.1_Ventanas_Mich\\assets\\scripts\\interfazcontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C04E449-C6A6-0775-93B6-73433AD7317A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interfazcontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,11 +26,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ControladorInterfaz.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Act2.1_Ventanas_Mich\\Assets\\Scripts\\ControladorInterfaz.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControladorInterfaz.cs",
+              "ToolTip": "C:\\Users\\Admin\\Act2.1_Ventanas_Mich\\Assets\\Scripts\\ControladorInterfaz.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControladorInterfaz.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T03:21:59.033Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ArrastrarObjeto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Act2.1_Ventanas_Mich\\Assets\\Scripts\\ArrastrarObjeto.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ArrastrarObjeto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Act2.1_Ventanas_Mich\\Assets\\Scripts\\ArrastrarObjeto.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ArrastrarObjeto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T01:52:31.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BotonNavegaci\u00F3n.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Act2.1_Ventanas_Mich\\Assets\\Scripts\\BotonNavegaci\u00F3n.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BotonNavegaci\u00F3n.cs",
+              "ToolTip": "C:\\Users\\Admin\\Act2.1_Ventanas_Mich\\Assets\\Scripts\\BotonNavegaci\u00F3n.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BotonNavegaci\u00F3n.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T05:53:38.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "InterfazControlador.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Act2.1_Ventanas_Mich\\Assets\\Scripts\\InterfazControlador.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InterfazControlador.cs",
@@ -26,8 +75,7 @@
               "RelativeToolTip": "Assets\\Scripts\\InterfazControlador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T07:07:15.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T07:07:15.797Z"
             }
           ]
         }
