@@ -63,9 +63,11 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\ObjetoArrastable2.cs" />
     <Compile Include="Assets\Scripts\ArrastrarObjeto.cs" />
+    <Compile Include="Assets\Scripts\DinoMovimiento.cs" />
     <Compile Include="Assets\Scripts\ControladorInterfaz.cs" />
     <Compile Include="Assets\Scripts\InterfazControlador.cs" />
     <Compile Include="Assets\Scripts\BotonNavegación.cs" />
+    <Compile Include="Assets\Velocidad.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
