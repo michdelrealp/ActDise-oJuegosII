@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scripts\DinoMovimiento.cs" />
     <Compile Include="Assets\Scripts\ControladorInterfaz.cs" />
     <Compile Include="Assets\Scripts\InterfazControlador.cs" />
+    <Compile Include="Assets\Scripts\DeteccionColision.cs" />
     <Compile Include="Assets\Scripts\BotonNavegación.cs" />
     <Compile Include="Assets\Velocidad.cs" />
   </ItemGroup>
