@@ -69,6 +69,7 @@
     <Compile Include="Assets\Scripts\DeteccionColision.cs" />
     <Compile Include="Assets\Scripts\BotonNavegación.cs" />
     <Compile Include="Assets\Velocidad.cs" />
+    <Compile Include="Assets\Scripts\CambioEscena.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

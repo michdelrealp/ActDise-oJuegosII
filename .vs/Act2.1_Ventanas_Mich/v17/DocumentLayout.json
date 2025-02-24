@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Act2.1_Ventanas_Mich\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C04E449-C6A6-0775-93B6-73433AD7317A}|Assembly-CSharp.csproj|c:\\users\\admin\\act2.1_ventanas_mich\\assets\\scripts\\dinomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C04E449-C6A6-0775-93B6-73433AD7317A}|Assembly-CSharp.csproj|c:\\users\\admin\\act2.1_ventanas_mich\\assets\\scripts\\cambioescena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C04E449-C6A6-0775-93B6-73433AD7317A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cambioescena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C04E449-C6A6-0775-93B6-73433AD7317A}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Act2.1_Ventanas_Mich\\assets\\scripts\\dinomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C04E449-C6A6-0775-93B6-73433AD7317A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dinomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -38,11 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "CambioEscena.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Act2.1_Ventanas_Mich\\Assets\\Scripts\\CambioEscena.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CambioEscena.cs",
+              "ToolTip": "C:\\Users\\Admin\\Act2.1_Ventanas_Mich\\Assets\\Scripts\\CambioEscena.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CambioEscena.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:24:45.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Detecci\u00F3nColision.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Act2.1_Ventanas_Mich\\Assets\\Scripts\\Detecci\u00F3nColision.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Detecci\u00F3nColision.cs",
@@ -53,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DinoMovimiento.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Act2.1_Ventanas_Mich\\Assets\\Scripts\\DinoMovimiento.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DinoMovimiento.cs",
@@ -61,12 +78,11 @@
               "RelativeToolTip": "Assets\\Scripts\\DinoMovimiento.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAqwEYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T06:28:18.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T06:28:18.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ObjetoArrastable2.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Act2.1_Ventanas_Mich\\Assets\\Scripts\\ObjetoArrastable2.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ObjetoArrastable2.cs",
@@ -78,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ControladorInterfaz.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Act2.1_Ventanas_Mich\\Assets\\Scripts\\ControladorInterfaz.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ControladorInterfaz.cs",
@@ -90,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ArrastrarObjeto.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Act2.1_Ventanas_Mich\\Assets\\Scripts\\ArrastrarObjeto.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ArrastrarObjeto.cs",
@@ -102,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BotonNavegaci\u00F3n.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Act2.1_Ventanas_Mich\\Assets\\Scripts\\BotonNavegaci\u00F3n.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BotonNavegaci\u00F3n.cs",
@@ -114,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "InterfazControlador.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Act2.1_Ventanas_Mich\\Assets\\Scripts\\InterfazControlador.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InterfazControlador.cs",
